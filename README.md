@@ -238,19 +238,6 @@ public void onPlayerQuit(PlayerQuitEvent event) {
 
 ---
 
-## 📦 Pubblicare la libreria
-
-```sh
-# Imposta le credenziali in gradle.properties (vedi sopra)
-# Poi pubblica:
-./gradlew publish
-```
-
-Pubblica automaticamente su:
-- `https://repo.lorenzzzz.xyz/private` → versioni SNAPSHOT
-- `https://repo.lorenzzzz.xyz/snapshots` → versioni release
-
----
 
 ## 🛠 Build locale
 
