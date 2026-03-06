@@ -13,7 +13,7 @@ Libreria per l'invio di messaggi Discord via Webhook, compatibile con **Paper**,
 
 ## 🔧 Installazione
 
-### 1. Aggiungi le credenziali gornite da lorenzzz nel tuo `gradle.properties`
+### 1. Aggiungi le credenziali fornite da lorenzzz nel tuo `gradle.properties`
 
 
 ```properties
